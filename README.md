@@ -1,4 +1,4 @@
 - 👋 Hey there, I am @dbrojas
 - 🔭 I’m interested in software, data, fitness, finance, and music
 - 🌱 I’m currently learning backend design patterns, Golang, and classical guitar
-- 🔑 GPG pubkey `C9DCCEF708964683`
+- 🔑 GPG pubkey [253CB0A083A94E7E2CD86E75C9DCCEF708964683](https://keys.openpgp.org/vks/v1/by-fingerprint/253CB0A083A94E7E2CD86E75C9DCCEF708964683)
